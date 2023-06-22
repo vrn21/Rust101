@@ -26,6 +26,15 @@ fn main() {
     // let mut name = "Varun";
     // println!("My first name is {name}");
     // name = "KV";
+    //----MATCH---
+    // let my_bool = true;
+    /* macth my_bool{
+           true => println!("YEs"),
+           false => prinln!("No"),
+           _ => prinln!("Everything else"),
+        } it needs every option thath may hev the value of the var <my_bool> here no elseblock. there is noo EOL only COMMA
+        IMP _ defines everything else
+    */
 }
 
 //cargo run --bin <filenamne>
