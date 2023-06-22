@@ -34,6 +34,8 @@ fn main() {
            _ => prinln!("Everything else"),
         } it needs every option thath may hev the value of the var <my_bool> here no elseblock. there is noo EOL only COMMA
         IMP _ defines everything else
+        we can also use 3 | 4| 5| 6 => println!("3 to 6");
+        
     */
 }
 
