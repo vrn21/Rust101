@@ -23,5 +23,13 @@ fn main() {
     // let mut name = "Varun";
     // println!("My first name is {name}");
     // name = "KV";
+    fn fname() {
+        println!("Varun");
+    }
+    fn lname() {
+        print!("KV");
+    }
+    fname();
+    lname();
     println!("hi rust running : )");
 }
