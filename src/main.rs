@@ -23,5 +23,5 @@ fn main() {
     // let mut name = "Varun";
     // println!("My first name is {name}");
     // name = "KV";
-     println!("hi rust running ");
+    println!("hi rust running : )");
 }
