@@ -15,10 +15,10 @@ fn main() {
         2 => println!("two"),
         _ => println!("sdkfug"),
     } */
-    let mut i = 5;
-    while i > 0 {
+    let mut i = 3;
+    while i > -5 {
         println!("{}", i);
         i = i - 1;
     }
-    println!("DOne!");
+    println!("Done!");
 }
