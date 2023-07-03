@@ -38,7 +38,7 @@ fn main() {
         
     */
 }
-
+// and pushing to keep contributions :)
 //cargo run --bin <filenamne>
 //this will run only that file
 //for not displaying all the compiling data use -q attribute
