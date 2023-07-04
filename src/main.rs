@@ -35,10 +35,10 @@ fn main() {
         } it needs every option thath may hev the value of the var <my_bool> here no elseblock. there is noo EOL only COMMA
         IMP _ defines everything else
         we can also use 3 | 4| 5| 6 => println!("3 to 6");
-        
+
     */
 }
-// and pushing to keep contributions :)
+// and pushing to keep contributions :) d ay2
 //cargo run --bin <filenamne>
 //this will run only that file
 //for not displaying all the compiling data use -q attribute
