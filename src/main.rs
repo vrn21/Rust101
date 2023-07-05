@@ -43,3 +43,4 @@ fn main() {
 //this will run only that file
 //for not displaying all the compiling data use -q attribute
 //cargo run -q --bin main <without ext>
+//
